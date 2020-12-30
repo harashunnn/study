@@ -1,0 +1,14 @@
+{
+  "name": "html5game",
+  "version": "1.0.0",
+  "description": "My First Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hara",
+  "license": "MIT",
+  "dependencies": {
+    "give-me-a-joke": "^0.4.0"
+  }
+}
